@@ -23,6 +23,10 @@ a {
     line-height: 1.07;
 }
 
+.main-sec {
+    background-color: #2E2F42;
+}
+
 .main-logo {
     color: #4D5AE5;
     text-transform: uppercase;
@@ -211,7 +215,7 @@ line-height: 1.2;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.2;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 
 }
@@ -234,7 +238,7 @@ line-height: 1.2;
     font-size: 18px;
     text-transform: uppercase;
     line-height: 1.17;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
 }
 .footer-descr {
     color: #F4F4FD;
@@ -242,6 +246,6 @@ line-height: 1.2;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
 
 }
